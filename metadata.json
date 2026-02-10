@@ -1,0 +1,7 @@
+{
+  "name": "Deepak Photography Dosarka",
+  "description": "Premium Bridal Makeup & Wedding Photography services in Hoshiarpur, Punjab. Experience luxury, celebration, and creativity for your special day.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
